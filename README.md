@@ -4,7 +4,7 @@ The answer to exercises from the book C Primer Plus by closer_laps.   <br>
 C Primer Plus(第六版) 编程练习答案(本人手写，仅供参考)   <br>
 
 目录：<br>
-第2章：C语言概述<br>
+<a href="https://github.com/zhao2613/C-primer-plus/tree/master/test%202">第2章：C语言概述</a><br>
 第3章：数据和C<br>
 第4章：字符串和格式化输入/输出<br>
 第5章：运算符，表达式和语句<br>
