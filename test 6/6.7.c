@@ -11,6 +11,6 @@ int main(void)
     for(a=0;a<=n;a++)
         printf("%c",word[strlen(word)-a-1]);
     printf("\n");
-    system("pause");
+
     return 0;
 }
