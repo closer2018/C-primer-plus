@@ -1,7 +1,7 @@
-<h1> C-primer-plus（Chinese version 中文版） <br><h1>
+<h1> C-primer-plus（Chinese version/中文版） <br><h1>
 
-<h3>The answer to exercises from the book C Primer Plus by closer_laps.   <br>
-C Primer Plus(第六版) 编程练习答案(本人手写，仅供参考) <h3>  <br>
+<h4>The answer to exercises from the book C Primer Plus by closer_laps.   <br>
+C Primer Plus(第六版) 编程练习中文答案(仅供参考) <h4>  <br>
 
 目录：<br>
 <a href="https://github.com/zhao2613/C-primer-plus/tree/master/test%202">第2章：C语言概述<br></a>
