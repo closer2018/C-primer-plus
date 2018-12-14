@@ -181,9 +181,10 @@ void del(struct book *li)
                 li[j]=li[j+1];//后面的数据提到前面
             count--;
             //最后一条数据置零
-            strcpy(li[count].title, "");
+            li[count]=(struct book){"","",0};
+            /*strcpy(li[count].title, "");
             strcpy(li[count].author, "");
-            li[count].value = 0;
+            li[count].value = 0;*/ //跟上面的同义替换
             break;
         }
     }

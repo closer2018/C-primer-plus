@@ -50,7 +50,7 @@ int main(void)
 
 void a_get_zero(struct player *man,int n)
 {
-    for(int i;i<n;i++)//ÇåÁã
+    for(int i=0;i<n;i++)//ÇåÁã
         man[i]=(struct player){0,"","",0,0,0,0,0};
 }
 
