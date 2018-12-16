@@ -55,7 +55,7 @@ char *trans_10to2(int n,char *ch)
     const static int size=CHAR_BIT*sizeof(int);
 
     for (i=size-1;i>=0;i--,n>>= 1)
-        ch[i]=(01&n)+'0';
+        ch[i]=(01&n)+'0';//n&01是求n最后一位的值
     ch[size]='\0';
 
     return ch;
