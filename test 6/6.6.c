@@ -13,6 +13,6 @@ int main(void)
         e=(a+c-1)*(a+c-1)*(a+c-1);
         printf("%20d%20ld%20ld%20ld\n",c,a+c-1,d,e);
     }
-    system("pause");
+
     return 0;
 }

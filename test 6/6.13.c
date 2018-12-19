@@ -1,4 +1,4 @@
-#include <stdio.h> //2çš„8æ¬¡å¹‚
+#include <stdio.h> //2µÄ8´ÎÃÝ
 #include<math.h>
 int main(void)
 {
@@ -14,6 +14,6 @@ int main(void)
     }
     while(a>0);
     printf("\n");
-    system("pause");
+
 	return 0;
  }
