@@ -1,4 +1,4 @@
-#ifndef mydef
+#ifndef DEG_TO_RED
 #define DEG_TO_RED ((4*atan(1))/180)
 #include <stdio.h>
 #include <math.h>
